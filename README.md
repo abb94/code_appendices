@@ -1,6 +1,6 @@
 # Code Repository for Master's Thesis - 2023
 
-This README provides an overview of the structure and contents of this repository, which serves as supplementary material for the Master's Thesis.
+This README provides an overview of the structure and contents of this repository, which serves as the appendix for the Master's Thesis.
 
 ## Table of Contents
 
