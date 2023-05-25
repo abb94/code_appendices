@@ -4,7 +4,7 @@ This README provides an overview of the structure and contents of this repositor
 
 ## Table of Contents
 
-1. [Architectures and Models]([#architectures-and-models](https://github.com/abb94/code_appendices/tree/main/Architectures%20of%20models))
+1. [Architectures and Models](https://github.com/abb94/code_appendices/tree/main/Architectures%20of%20models)
 2. [Data Extraction and Preparation](#data-extraction-and-preparation)
 3. [Deployment Pipelines](#deployment-pipelines)
 4. [Training and Evaluation Process](#training-and-evaluation-process)
