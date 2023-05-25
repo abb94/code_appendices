@@ -5,10 +5,10 @@ This README provides an overview of the structure and contents of this repositor
 ## Table of Contents
 
 1. [Architectures and Models](https://github.com/abb94/code_appendices/tree/main/Architectures%20of%20models)
-2. [Data Extraction and Preparation](#data-extraction-and-preparation)
-3. [Deployment Pipelines](#deployment-pipelines)
-4. [Training and Evaluation Process](#training-and-evaluation-process)
-5. [Test Videos](#test-videos)
+2. [Data Extraction and Preparation](https://github.com/abb94/code_appendices/tree/main/Data%20extraction%20and%20preparation)
+3. [Deployment Pipelines](https://github.com/abb94/code_appendices/tree/main/Deployment%20pipelines)
+4. [Training and Evaluation Process](https://github.com/abb94/code_appendices/tree/main/Training%20and%20evaluation%20process)
+5. [Test Videos](https://github.com/abb94/code_appendices/tree/main/test%20videos)
 6. [Additional Files](#additional-files)
 
 ## 1. Architectures and Models
