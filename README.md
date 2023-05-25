@@ -26,7 +26,7 @@ Additionally, the deployment scripts for Dataset 1 and Dataset 2 in Deployment P
 Includes the necessary functions and scripts for conducting the training and validation processes.
 
 ## 5. Test Videos
-Here, you can access the test videos that were used to produce the results presented in the thesis. These videos provide practical examples of the model's performance. The videos are password-protected. The code is provided in the appendix section B.6. 
+Here, you can access the test videos that were used to produce the results presented in the thesis. These videos provide practical examples of the model's performance. The videos are password-protected and compressed using `winrar`. The code is provided in the appendix section B.6. 
 
 ## 6. Additional Files
 - The `.rar` files contain all the data used throughout the thesis. These folders are not password-protected. 
