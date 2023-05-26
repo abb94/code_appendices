@@ -30,4 +30,4 @@ Here, you can access the test videos that were used to produce the results prese
 
 ## 6. Additional Files
 - The `.rar` files contain all the data used throughout the thesis. These folders are not password-protected. 
-- `data.xlsx` is a spreadsheet file that allows easy access to the downloadable data used in the thesis.
+- `data.xlsx` is a spreadsheet file that allows easy access to the downloadable data used in the thesis. Please read the terms and conditions for this data at [the following link](https://www.bu.edu/asllrp/av/dai-asllvd.html)
